@@ -1,1 +1,3 @@
-Christine Isaksen 
+# Christine Isaksen 
+## About me
+Hi, 
